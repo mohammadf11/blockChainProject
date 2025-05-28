@@ -1,0 +1,23 @@
+{
+  "name": "blockchainproject",
+  "version": "1.0.0",
+  "description": "Building a blockChain Project with the TS language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadf11/blockChainProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammadf11/blockChainProject/issues"
+  },
+  "homepage": "https://github.com/mohammadf11/blockChainProject#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
