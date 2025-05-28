@@ -1,1 +1,1 @@
-Building a blockChain with the TS language
+Building a blockChain Project with the TS language
